@@ -1,0 +1,5 @@
+#pragma once
+
+#define OLED_DISPLAY_128X64   
+#define ENCODER_RESOLUTION 2
+#define OLED_I2C_ADDRESS 0x3C
