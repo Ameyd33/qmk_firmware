@@ -1,0 +1,14 @@
+#pragma once
+
+#define OLED_DISPLAY_128X64   
+#define ENCODER_RESOLUTION 2
+#define OLED_I2C_ADDRESS 0x3C
+#define OLED_ROTATION OLED_ROTATION_180
+#define I2C1_SDA_PIN GP2
+#define I2C1_SCL_PIN GP3
+#define WS2812_DI_PIN GP16
+#define RAW_USAGE_PAGE 0xFF60
+#define RAW_USAGE_ID   0x61
+
+
+
